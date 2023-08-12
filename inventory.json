@@ -1,0 +1,44 @@
+[
+    {
+        "id": "101",
+        "name": "Cans of Tomato Sauce",
+        "cost": 3.00,
+        "qty": 32
+    },
+    {
+        "id": "102",
+        "name": "Blocks of Cheese",
+        "cost": 9.00,
+        "qty": 10
+    },
+    {
+        "id": "103",
+        "name": "Bags of Flour",
+        "cost": 8.00,
+        "qty": 15
+    },
+    {
+        "id": "104",
+        "name": "Packages of Pepperoni",
+        "cost": 10.00,
+        "qty": 14
+    },
+    {
+        "id": "105",
+        "name": "Packages of Bacon",
+        "cost": 6.00,
+        "qty": 9
+    },
+    {
+        "id": "106",
+        "name": "Cans of Pineapple",
+        "cost": 2.00,
+        "qty": 6
+    },
+    {
+        "id": "107",
+        "name": "Pizza Boxes",
+        "cost": 0.50,
+        "qty": 40
+    }
+]
